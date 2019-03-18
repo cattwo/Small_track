@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="easy_chat"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="easy_chat">
+				<Option output="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/easy_chat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 easy_chat"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="easy_chat/fast">
+				<Option output="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/easy_chat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 easy_chat/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wlwx/CLionProjects/easy_chat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wlwx/CLionProjects/easy_chat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Acceptor.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Acceptor.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Buffer.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Buffer.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Channel.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Channel.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/ChatClient.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/ChatClient.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/ChatServer.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/ChatServer.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Connector.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Connector.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EPollPoller.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EPollPoller.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EventLoop.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EventLoop.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EventLoopThread.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EventLoopThread.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EventLoopThreadPool.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/EventLoopThreadPool.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/InetAddress.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/InetAddress.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Mutex.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/PollPoller.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/PollPoller.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Poller.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Poller.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Socket.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Socket.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/TcpClient.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/TcpClient.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/TcpConnection.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/TcpConnection.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/TcpServer.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/TcpServer.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Thread.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/Thread.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/ThreadLocalSingleton.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/main.cpp">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/noncopyable.h">
+			<Option target="easy_chat"/>
+		</Unit>
+		<Unit filename="/home/wlwx/CLionProjects/easy_chat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
